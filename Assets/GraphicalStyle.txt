@@ -1,0 +1,11 @@
+2D - Side Scroller
+2D - Top Down
+2D - IsoMetric
+2D
+3D - Cel Shaded
+3D - Anime
+3D - Photo Realistic
+3D - Cartoon / Exaggerated
+3D - Lo-polygon
+3D
+Text Based Adventure

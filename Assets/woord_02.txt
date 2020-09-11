@@ -1,0 +1,21 @@
+Weapons Cache
+Storage
+Command Centre
+Office
+Apartment
+Dungeon
+Factory
+Prison
+University
+Junk Yard
+High Street
+Auditorium
+Lighthouse
+Hotel
+Home
+Hanger Bay
+Safe-Room
+Bunker
+Island
+Tree House
+Train

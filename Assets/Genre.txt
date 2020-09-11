@@ -1,0 +1,14 @@
+Role Playing Game
+Strategy - Real Time
+Strategy - Turn Based
+Sports
+Sport Management
+Racing
+Adventure
+Action
+Simulation
+Economic Simulation
+Puzzle
+Match 3
+Collectible Card Game
+Rogue-Like
